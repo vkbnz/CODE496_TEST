@@ -46,7 +46,7 @@ void set_phi(){
 int main(){
 
   initialize();
-  set_phi();
+  // set_phi();
   visualize();
 
 }
